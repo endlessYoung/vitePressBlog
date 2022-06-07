@@ -2,6 +2,7 @@ module.exports = {
   title: 'endlessyoung个人博客',
   description: '摸鱼不如烤鱼.',
   lang: 'zh-CN',
+  base:'/vitePressBlog/',
   themeConfig: {
     // // repo: 'wushijiang13/vue3-vite-cli',
     // // repoLabel: 'GitHub',
